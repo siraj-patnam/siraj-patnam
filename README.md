@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/sirajpatnam">LinkedIn</a> • 
   <a href="https://github.com/siraj-patnam">GitHub</a> • 
   <a href="mailto:rahamansirajahmedpatnam@gmail.com">Email</a> • 
-  <a href="https://YOUR_PORTFOLIO_LINK_HERE">Portfolio</a>
+  <a href="https://siraj-patnam.github.io/My_Portfolio/">Portfolio</a>
 </p>
 <p align="center">St. Louis, MO | 314-393-9371</p>
 
