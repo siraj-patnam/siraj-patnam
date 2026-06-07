@@ -1,99 +1,66 @@
 <h1 align="center">Hi, I'm Siraj Patnam 👋</h1>
 <p align="center">
-  <b>Data Scientist | ML Engineer | Cloud ML | NLP | Computer Vision</b><br>
-  <a href="https://www.linkedin.com/in/sirajpatnam">LinkedIn</a> • 
+  <b>AI/ML Engineer | Generative AI | LLMs | RAG | NLP | Semantic Search</b><br>
+  <a href="https://www.linkedin.com/in/siraj-patnam/">LinkedIn</a> • 
   <a href="https://github.com/siraj-patnam">GitHub</a> • 
-  <a href="mailto:rahamansirajahmedpatnam@gmail.com">Email</a> • 
+  <a href="mailto:Sirajpatnam1@gmail.com">Email</a> • 
   <a href="https://siraj-patnam.github.io/My_Portfolio/">Portfolio</a>
 </p>
-<p align="center">St. Louis, MO | 314-393-9371</p>
+<p align="center">San Francisco, CA</p>
 
 ---
 
 ## 👨‍💻 Professional Summary
 
-Results-driven Data Scientist and ML Engineer with expertise in scalable ML pipelines, cloud deployment on AWS, and workflow optimization. Experienced in translating complex data into actionable insights through NLP, computer vision, and analytics. Skilled in delivering production-ready solutions that reduce costs and improve business performance. Always eager to learn, grow, and contribute to impactful real-world applications.
-
----
-
-## 🛠️ Technical Skills
-
-- **Languages:** Python, SQL, R, Java, C++, JavaScript
-- **ML/DL:** TensorFlow, PyTorch, Scikit-Learn, Keras
-- **Cloud:** AWS SageMaker, AWS ML, GCP
-- **Data:** Pandas, NumPy, Apache Spark, Hadoop, MongoDB
-- **Visualization:** Tableau, Power BI, Matplotlib, Seaborn
-- **DevOps:** Git, Docker, Kubernetes, MLflow, CI/CD
-- **Specialties:** NLP, Computer Vision, ETL Pipelines, Streamlit, FastAPI, LLMs
-
----
-
-## 🏆 Certifications & Achievements
-
-- Google Advanced Data Analytics Specialization (Google)
-- AWS Certified Machine Learning - Specialty (AWS)
-- NVIDIA End-to-End Data Science Workflows
-- AWS Certified AI Practitioner
-- Best Use Case of AI – e-Hacks Hackathon
-- 3rd Place – NASA Space Settlement Contest
+AI/ML Engineer with 5+ years of experience building Generative AI, NLP, recommendation, and semantic search systems at scale. Skilled in developing production-grade RAG pipelines, LLM applications, and distributed ML infrastructure using Python, PyTorch, LangChain, Kubernetes, and AWS. Proven track record of improving search relevance, reducing inference latency, and deploying scalable AI solutions serving millions of users and real-time workloads.
 
 ---
 
 ## 💼 Experience
 
-**Data Analyst Intern**  
-Washington University, St. Louis, MO | Jun 2024 – Aug 2024  
-- Automated Salesforce ETL pipelines with Python, reducing data delays.
-- Built executive dashboards in Power BI/Tableau; improved decision-making.
-- Developed ML-based donor retention & giving score models (Scikit-Learn).
-- Automated donor assignment lifecycle; cut turnaround from 3 months to 2 weeks.
-- Deep analytics on grant funding; increased mobilizable grants by >20%.
+**AI/ML Engineer**  
+Perplexity, San Francisco, CA | Jun 2024 – Present  
+- Engineered scalable conversational AI pipelines (Python, LangChain, FastAPI) integrating GPT and LLaMA models with semantic retrieval, serving 50,000+ daily search requests.
+- Built RAG pipelines with Pinecone, FAISS, and Hugging Face Transformers, improving contextual response accuracy by 34% via optimized retrieval and reranking.
+- Fine-tuned transformer models with PyTorch, LoRA, PEFT, and DeepSpeed, reducing inference latency by 29%.
+- Deployed optimized inference on AWS EKS/EC2 using vLLM, TensorRT-LLM, and Triton Inference Server, cutting infrastructure costs by 26%.
+- Designed prompt orchestration and multi-step reasoning workflows (LangChain, LlamaIndex) to improve grounding, citation accuracy, and hallucination reduction.
 
-**Data Science Intern**  
-Data Exposys Labs, Hyderabad, India | Apr 2023 – Jul 2023  
-- Built a diabetes prediction model (Random Forest, 91% accuracy).
-- Engineered robust data pipelines in SQL, Pandas, and MongoDB.
-- Created visualizations and performance dashboards for stakeholders.
+**Machine Learning Engineer**  
+Accenture, India | Jun 2020 – Jul 2023  
+- Developed recommendation and Learning-to-Rank pipelines (Python, XGBoost, LightGBM, Spark), improving personalized relevance by 34% across millions of daily interactions.
+- Built NLP semantic retrieval systems (PyTorch, TensorFlow, BERT, Sentence Transformers), increasing search accuracy by 29%.
+- Engineered distributed feature pipelines (PySpark, Hadoop, Hive, Presto), reducing large-scale processing latency by 41%.
+- Built cloud-native ML deployment and CI/CD pipelines (AWS SageMaker, Docker, Jenkins, GitHub Actions) for reliable model versioning and retraining.
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technical Skills
 
-- <b>[networksecurity](https://github.com/siraj-patnam/networksecurity):</b>  
-  **End-to-End MLOps Pipeline for Phishing URL Detection**  
-  - 97.8% F1 score (Random Forest, Gradient Boosting, Scikit-Learn).  
-  - FastAPI, Docker, MLflow, AWS EC2, MongoDB Atlas, CI/CD.
+- **Languages & Backend:** Python, SQL, Bash, FastAPI, REST APIs, gRPC, Microservices, Git, Linux/Unix
+- **ML & AI:** Machine Learning, Deep Learning, Generative AI, LLMs, NLP, Recommendation Systems, Learning-to-Rank, Semantic Search, RAG, Prompt Engineering, Fine-Tuning
+- **LLM & NLP Frameworks:** LangChain, LlamaIndex, Hugging Face Transformers, SentenceTransformers, SpaCy, BERT, RoBERTa, LoRA, PEFT, DeepSpeed, OpenAI APIs
+- **ML & Data Science:** PyTorch, TensorFlow, Scikit-learn, XGBoost, LightGBM, Pandas, NumPy
+- **Search, Vector DB & Data Eng:** Pinecone, FAISS, Elasticsearch, BM25, Spark, PySpark, Hadoop, Hive, Presto, Kafka, Airflow, ETL
+- **Cloud, MLOps & DevOps:** AWS, GCP, EC2, EKS, SageMaker, S3, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, MLflow, CI/CD
+- **Inference & Production:** vLLM, TensorRT-LLM, Triton Inference Server, CUDA, Model Serving, Distributed Inference, Latency Optimization
+- **Monitoring:** Prometheus, Grafana, Redis, OAuth2
 
-- <b>[Fine_Tuning_BERT_for_Sentiment](https://github.com/siraj-patnam/Fine_Tuning_BERT_for_Sentiment):</b>  
-  **Twitter Sentiment Analysis with BERT**  
-  - Fine-tuned BERT transformer, 94% accuracy, 0.92 F1.  
-  - Real-time predictions with FastAPI, Docker, Nginx.
+---
 
-- <b>[automl](https://github.com/siraj-patnam/automl):</b>  
-  **Semantic Segmentation on Amazon SageMaker**  
-  - FCN-ResNet50, 92.6% pixel accuracy, scalable endpoint deployment.
+## 🏆 Certifications
 
-- <b>[My_Portfolio](https://github.com/siraj-patnam/My_Portfolio):</b>  
-  **Personal Website & Portfolio**  
-  - All projects, resume, and contact info in one place.
+- AWS Certified AI Practitioner
+- AWS Certified Machine Learning – Specialty
+- Google Advanced Data Analytics Specialization
+- Accelerating End-to-End Data Science Workflows
 
-- <b>[AeroInv](https://github.com/siraj-patnam/AeroInv):</b>  
-  **Aerospace Inventory Analytics**  
-  - Data engineering, analytics, and reporting for aerospace datasets.
+---
 
-- <b>[mushrooms](https://github.com/siraj-patnam/mushrooms):</b>  
-  **Poisonous Mushroom Classification**  
-  - Data science pipeline to predict mushroom toxicity.
+## 🎓 Education
 
-- <b>[Forest_Fire_Detection](https://github.com/siraj-patnam/Forest_Fire_Detection):</b>  
-  **Computer Vision for Fire Detection**  
-  - Real-world image analytics and early warning system.
-
-- <b>[InnoNest](https://github.com/siraj-patnam/InnoNest):</b>  
-  **Startup Showcase Platform**  
-  - Hackathon project to connect startups with investors.
-
-*See all my projects on my [GitHub profile](https://github.com/siraj-patnam?tab=repositories).*
+**Saint Louis University**  
+Master of Science in Computer Information Systems
 
 ---
 
@@ -107,21 +74,11 @@ Data Exposys Labs, Hyderabad, India | Apr 2023 – Jul 2023
 
 ---
 
-## 🎓 Education
-
-**Saint Louis University, College of Engineering**  
-Master of Science in Information Systems | GPA: 3.8/4.0 (Expected May 2025)
-
-**Muffakham Jah College Of Engineering And Technology**  
-Bachelor of Technology in Computer Science, Hyderabad, India
-
----
-
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sirajpatnam)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siraj-patnam/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/siraj-patnam)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rahamansirajahmedpatnam@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Sirajpatnam1@gmail.com)
 
 ---
 
